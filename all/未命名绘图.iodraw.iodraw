@@ -110,6 +110,9 @@
         <mxCell id="I0z9cKhS6GuMvDTR15kn-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="I0z9cKhS6GuMvDTR15kn-17" target="I0z9cKhS6GuMvDTR15kn-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="I0z9cKhS6GuMvDTR15kn-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="I0z9cKhS6GuMvDTR15kn-17" target="I0z9cKhS6GuMvDTR15kn-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="I0z9cKhS6GuMvDTR15kn-17" value="确认发货" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="150" y="1220" width="200" height="60" as="geometry" />
         </mxCell>
@@ -126,7 +129,7 @@
           <mxGeometry x="156" y="1790" width="204" height="80" as="geometry" />
         </mxCell>
         <mxCell id="I0z9cKhS6GuMvDTR15kn-24" value="拆分成不同shell页" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="144" y="1480" width="200" height="60" as="geometry" />
+          <mxGeometry x="150" y="1360" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I0z9cKhS6GuMvDTR15kn-25" value="发送消息/发送邮件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="150" y="1640" width="200" height="60" as="geometry" />
