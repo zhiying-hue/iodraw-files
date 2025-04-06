@@ -62,6 +62,11 @@
         <mxCell id="I0z9cKhS6GuMvDTR15kn-9" value="标记并分类&quot;订单有误&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="354" y="690" width="176" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="I0z9cKhS6GuMvDTR15kn-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="I0z9cKhS6GuMvDTR15kn-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="830" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="I0z9cKhS6GuMvDTR15kn-11" value="通知业务人员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="580" y="690" width="176" height="60" as="geometry" />
         </mxCell>
@@ -94,7 +99,7 @@
         <mxCell id="I0z9cKhS6GuMvDTR15kn-15" value="标记并分类&quot;待发货&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="354" y="920" width="176" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="I0z9cKhS6GuMvDTR15kn-16" value="标记并分类&quot;已发货&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="I0z9cKhS6GuMvDTR15kn-16" value="获取订单详细信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="156" y="1020" width="176" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I0z9cKhS6GuMvDTR15kn-17" value="确认发货" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
