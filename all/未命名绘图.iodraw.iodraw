@@ -48,7 +48,7 @@
           <mxGeometry x="354" y="690" width="176" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I0z9cKhS6GuMvDTR15kn-11" value="标记并分类&quot;订单有误&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="540" y="690" width="176" height="60" as="geometry" />
+          <mxGeometry x="580" y="690" width="176" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
