@@ -86,6 +86,11 @@
         <mxCell id="I0z9cKhS6GuMvDTR15kn-14" value="是否为完成" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="910" width="140" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="I0z9cKhS6GuMvDTR15kn-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="I0z9cKhS6GuMvDTR15kn-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="820" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="I0z9cKhS6GuMvDTR15kn-15" value="标记并分类&quot;待发货&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="354" y="920" width="176" height="60" as="geometry" />
         </mxCell>
