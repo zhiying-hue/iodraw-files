@@ -65,6 +65,9 @@
         <mxCell id="I0z9cKhS6GuMvDTR15kn-16" value="标记并分类&quot;已发货&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="1030" width="176" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="I0z9cKhS6GuMvDTR15kn-17" value="确认发货" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="1109" width="200" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
