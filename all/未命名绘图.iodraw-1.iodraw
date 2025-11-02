@@ -19,10 +19,10 @@
           <mxGeometry x="190" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OuctqYO5kbJxb-sW678Z-5" value="新的账号" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="770" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OuctqYO5kbJxb-sW678Z-7" value="每天至少30分钟的学习" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="110" width="160" height="60" as="geometry" />
+          <mxGeometry x="560" y="120" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OuctqYO5kbJxb-sW678Z-12" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="60" width="50" height="100" as="geometry" />
