@@ -74,10 +74,10 @@
           <mxGeometry x="1200" y="1190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OuctqYO5kbJxb-sW678Z-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1230" y="1060" width="120" height="60" as="geometry" />
+          <mxGeometry x="1200" y="1310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OuctqYO5kbJxb-sW678Z-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="940" width="120" height="60" as="geometry" />
+        <mxCell id="OuctqYO5kbJxb-sW678Z-36" value="昵称" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="1090" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OuctqYO5kbJxb-sW678Z-37" value="30分钟" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="755" y="700" width="120" height="60" as="geometry" />
@@ -98,7 +98,7 @@
           <mxGeometry x="950" y="820" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OuctqYO5kbJxb-sW678Z-43" value="修改资料页" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="940" y="1170" width="120" height="60" as="geometry" />
+          <mxGeometry x="960" y="1170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OuctqYO5kbJxb-sW678Z-44" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1160" y="220" width="120" height="60" as="geometry" />
@@ -116,7 +116,7 @@
           <mxGeometry x="1190" y="820" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OuctqYO5kbJxb-sW678Z-49" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="580" width="120" height="60" as="geometry" />
+          <mxGeometry x="1380" y="960" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OuctqYO5kbJxb-sW678Z-50" value="举例：男频推文" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1180" y="690" width="120" height="60" as="geometry" />
