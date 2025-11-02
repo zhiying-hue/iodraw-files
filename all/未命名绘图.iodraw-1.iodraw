@@ -95,6 +95,9 @@
         <mxCell id="OuctqYO5kbJxb-sW678Z-32" value="养号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="700" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="OuctqYO5kbJxb-sW678Z-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="OuctqYO5kbJxb-sW678Z-33" target="OuctqYO5kbJxb-sW678Z-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OuctqYO5kbJxb-sW678Z-33" value="4天" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="700" width="120" height="60" as="geometry" />
         </mxCell>
