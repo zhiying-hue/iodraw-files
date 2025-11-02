@@ -103,23 +103,17 @@
         <mxCell id="OuctqYO5kbJxb-sW678Z-44" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1160" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OuctqYO5kbJxb-sW678Z-45" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1390" y="1130" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="OuctqYO5kbJxb-sW678Z-46" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1380" y="1040" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="OuctqYO5kbJxb-sW678Z-47" value="发布作品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="930" y="1610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OuctqYO5kbJxb-sW678Z-48" value="点赞，评论，收藏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1190" y="820" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OuctqYO5kbJxb-sW678Z-49" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1380" y="960" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="OuctqYO5kbJxb-sW678Z-50" value="举例：男频推文" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1180" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OuctqYO5kbJxb-sW678Z-54" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="1070" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
