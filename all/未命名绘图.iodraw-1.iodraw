@@ -10,14 +10,6 @@
         <mxCell id="OuctqYO5kbJxb-sW678Z-2" value="步骤" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="500" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OuctqYO5kbJxb-sW678Z-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OuctqYO5kbJxb-sW678Z-3" target="OuctqYO5kbJxb-sW678Z-12">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="510" y="110" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="790" y="110" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="OuctqYO5kbJxb-sW678Z-3" value="做推文之前的准备" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="190" y="80" width="120" height="60" as="geometry" />
         </mxCell>
@@ -29,6 +21,9 @@
         </mxCell>
         <mxCell id="OuctqYO5kbJxb-sW678Z-12" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="790" y="50" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="OuctqYO5kbJxb-sW678Z-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.95;entryY=0.333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OuctqYO5kbJxb-sW678Z-12" target="OuctqYO5kbJxb-sW678Z-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
