@@ -104,7 +104,7 @@
           <mxGeometry x="1200" y="1430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OuctqYO5kbJxb-sW678Z-47" value="发布作品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="930" y="1610" width="120" height="60" as="geometry" />
+          <mxGeometry x="950" y="1700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OuctqYO5kbJxb-sW678Z-48" value="点赞，评论，收藏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1190" y="820" width="120" height="60" as="geometry" />
@@ -124,8 +124,8 @@
         <mxCell id="OuctqYO5kbJxb-sW678Z-57" value="男频-男&lt;div style=&quot;font-size: 17px;&quot;&gt;女频-女&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="1480" y="1410" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="OuctqYO5kbJxb-sW678Z-58" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="1280" width="120" height="60" as="geometry" />
+        <mxCell id="OuctqYO5kbJxb-sW678Z-58" value="背景墙" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="1540" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
