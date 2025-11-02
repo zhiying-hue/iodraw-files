@@ -115,7 +115,7 @@
         <mxCell id="OuctqYO5kbJxb-sW678Z-54" value="XX说漫，xx漫画，xx漫剪" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1460" y="1020" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="OuctqYO5kbJxb-sW678Z-55" value="男频-男&lt;div&gt;女频-女&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OuctqYO5kbJxb-sW678Z-55" value="男频-男&lt;div&gt;&lt;br&gt;&lt;div&gt;女频-女&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1450" y="1160" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
