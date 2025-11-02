@@ -110,8 +110,16 @@
         <mxCell id="OuctqYO5kbJxb-sW678Z-36" value="昵称" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1200" y="1060" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="OuctqYO5kbJxb-sW678Z-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OuctqYO5kbJxb-sW678Z-37" target="OuctqYO5kbJxb-sW678Z-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OuctqYO5kbJxb-sW678Z-37" value="30分钟" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="755" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OuctqYO5kbJxb-sW678Z-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="OuctqYO5kbJxb-sW678Z-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="710" y="730" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="OuctqYO5kbJxb-sW678Z-38" value="40分钟" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="820" width="120" height="60" as="geometry" />
