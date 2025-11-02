@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="CmtPYXQDxTMaeehFpU5n">
-    <mxGraphModel dx="2074" dy="1196" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+    <mxGraphModel dx="5374" dy="1196" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OuctqYO5kbJxb-sW678Z-2" value="步骤" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="500" width="60" height="60" as="geometry" />
+          <mxGeometry x="-10" y="590" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OuctqYO5kbJxb-sW678Z-3" value="做推文之前的准备" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="300" y="70" width="120" height="60" as="geometry" />
@@ -32,6 +32,9 @@
         </mxCell>
         <mxCell id="OuctqYO5kbJxb-sW678Z-19" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="270" width="160" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="OuctqYO5kbJxb-sW678Z-20" value="账号定位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="250" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
