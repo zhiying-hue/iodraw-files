@@ -53,9 +53,9 @@
           <mxGeometry x="550" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OuctqYO5kbJxb-sW678Z-28" value="文章类型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OuctqYO5kbJxb-sW678Z-29" value="现在言情" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OuctqYO5kbJxb-sW678Z-29" value="现代言情" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OuctqYO5kbJxb-sW678Z-30" value="女频" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -71,7 +71,7 @@
           <mxGeometry x="560" y="700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OuctqYO5kbJxb-sW678Z-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="1200" y="1190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OuctqYO5kbJxb-sW678Z-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1230" y="1060" width="120" height="60" as="geometry" />
