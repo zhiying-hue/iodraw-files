@@ -121,6 +121,9 @@
             <mxPoint x="710" y="730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="OuctqYO5kbJxb-sW678Z-105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OuctqYO5kbJxb-sW678Z-38" target="OuctqYO5kbJxb-sW678Z-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OuctqYO5kbJxb-sW678Z-38" value="40分钟" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="820" width="120" height="60" as="geometry" />
         </mxCell>
@@ -130,8 +133,16 @@
         <mxCell id="OuctqYO5kbJxb-sW678Z-40" value="60分钟" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="755" y="1240" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="OuctqYO5kbJxb-sW678Z-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OuctqYO5kbJxb-sW678Z-41" target="OuctqYO5kbJxb-sW678Z-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OuctqYO5kbJxb-sW678Z-41" value="刷对标视频" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="950" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OuctqYO5kbJxb-sW678Z-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OuctqYO5kbJxb-sW678Z-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1170" y="850" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="OuctqYO5kbJxb-sW678Z-42" value="刷对标视频" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="950" y="820" width="120" height="60" as="geometry" />
