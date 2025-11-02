@@ -127,6 +127,11 @@
         <mxCell id="OuctqYO5kbJxb-sW678Z-38" value="40分钟" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="820" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="OuctqYO5kbJxb-sW678Z-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OuctqYO5kbJxb-sW678Z-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="710" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="OuctqYO5kbJxb-sW678Z-39" value="50分钟" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="990" width="120" height="60" as="geometry" />
         </mxCell>
@@ -157,7 +162,7 @@
           <mxGeometry x="1000" y="1710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OuctqYO5kbJxb-sW678Z-48" value="点赞，评论，收藏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1190" y="820" width="120" height="60" as="geometry" />
+          <mxGeometry x="1170" y="820" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OuctqYO5kbJxb-sW678Z-50" value="举例：男频推文" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1180" y="690" width="120" height="60" as="geometry" />
