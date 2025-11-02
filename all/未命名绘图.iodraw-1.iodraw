@@ -10,6 +10,11 @@
         <mxCell id="OuctqYO5kbJxb-sW678Z-2" value="步骤" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="500" width="60" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="OuctqYO5kbJxb-sW678Z-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="OuctqYO5kbJxb-sW678Z-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="OuctqYO5kbJxb-sW678Z-3" value="做推文之前的准备" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="190" y="80" width="120" height="60" as="geometry" />
         </mxCell>
