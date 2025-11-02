@@ -10,12 +10,11 @@
         <mxCell id="OuctqYO5kbJxb-sW678Z-2" value="步骤" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="500" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OuctqYO5kbJxb-sW678Z-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="OuctqYO5kbJxb-sW678Z-3">
+        <mxCell id="OuctqYO5kbJxb-sW678Z-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OuctqYO5kbJxb-sW678Z-3" target="OuctqYO5kbJxb-sW678Z-12">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="510" y="110" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="410" y="110" />
-              <mxPoint x="410" y="111" />
+              <mxPoint x="790" y="110" />
             </Array>
           </mxGeometry>
         </mxCell>
